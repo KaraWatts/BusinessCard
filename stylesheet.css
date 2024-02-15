@@ -1,0 +1,104 @@
+body {
+/* background-color: rgb(110, 35, 110); */
+background-color: rgb(37, 34, 36);
+}
+.main{
+    height: 1000px;
+    width: 603px;
+    /* background-color: rgb(174, 196, 184); */
+    /* background-color: rgb(37, 34, 36); */
+    padding-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 10px;   
+    font-family: Arial, Helvetica, sans-serif; 
+}
+h1 {
+    color: whitesmoke;
+    line-height: 0; 
+}
+h2{
+    color: whitesmoke;
+    margin-bottom: 0;
+}
+.title{
+    position: relative;
+    text-align: center;
+    bottom: 40px;
+    font-size: 18pt;
+    padding-left: 10px;
+}
+#Profile {
+    border-style: solid;
+    border-color: lightseagreen;
+    border-width: 4px;
+    border-radius: 10px;
+    /* position:relative;
+    text-align: center; */
+}
+#Code-Platoon {
+    position: relative;
+    top: -70px;
+    left: 175px;
+    background-color: rgb(246, 245, 245);
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #777777;
+}
+hr {
+    border: 2px solid lightseagreen
+}
+.contacts {
+    position: relative;
+    left: 50px;
+    top: 10px;
+    background-color: lightseagreen;
+    border-radius: 50px;
+    margin: 7px
+}
+#phone {
+    position: relative;
+    left: 75px;
+    top: -20px;
+    font-size: 30px;
+    color: whitesmoke;
+}
+#email {
+    line-height: 3em;
+    position: relative;
+    top: -20px;
+    left: 70px;
+    font-size: 30px;
+    color: whitesmoke;   
+}
+.box{
+    background-color: lightseagreen;
+    width: 40px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    top: 5px;
+    left: 72px;
+}
+#Follow {
+    line-height: 3em;
+    position: relative;
+    top: -220px;
+    left: 160px;
+    font-size: 30px;
+    color: whitesmoke;   
+}
+
+.logos {
+    position:relative;
+    top: -210px;
+    left: 150px;
+}
+#logo{
+    border-radius: 50px;
+    position: relative;
+    top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
