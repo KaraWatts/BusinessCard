@@ -85,12 +85,12 @@ hr {
 }
 .box{
     background-color: lightseagreen;
-    width: 10%;
-    height: 18%;
+    width: 13%;
+    height: 20%;
     border-radius: 10px;
     position: absolute;
-    bottom: 0%;
-    left:14%;
+    bottom:-2%;
+    left:12%;
 }
 #Follow {
     line-height: 3em;
@@ -105,7 +105,7 @@ hr {
 .logos {
     position: absolute;
     top:90%;
-    left:30%;
+    left:32%;
 }
 #logo{
     border-radius: 50px;
