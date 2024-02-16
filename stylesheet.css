@@ -73,7 +73,7 @@ hr {
     position:absolute;
     color: whitesmoke;
     font-size: 16pt;
-    left: 35%;
+    left: 30%;
     top: 65%;
 }
 #email {
@@ -81,17 +81,17 @@ hr {
     line-height: 3em;
     color: whitesmoke;
     font-size: 16pt;
-    left:35%;
+    left:30%;
     top: 71%;   
 }
 .box{
     background-color: lightseagreen;
-    width: 13%;
+    width: 5%;
     height: 20%;
-    border-radius: 10px;
+    border-radius: 3px;
     position: absolute;
     bottom:-4%;
-    left:12%;
+    left:16%;
 }
 .box2{
     background-color: rgb(37, 34, 36);
@@ -107,13 +107,13 @@ hr {
     color: whitesmoke;
     position: absolute;
     top: 82%;   
-    left: 35%;
+    left: 30%;
 }
 
 .logos {
     position: absolute;
     top:92.5%;
-    left:32%;
+    left:28%;
 }
 #logo{
     border-radius: 50px;
